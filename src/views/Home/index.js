@@ -5,7 +5,7 @@ import Contact from 'src/components/Contact';
 import Footer from 'src/components/Footer';
 import Photos from 'src/components/Photos';
 import Service from 'src/components/Service';
-import Testimonial from 'src/components/Testimonial';
+// import Testimonial from 'src/components/Testimonial';
 import Work from 'src/components/work';
 import HeroBanner from './HeroBanner';
 
@@ -14,10 +14,10 @@ const Home = () => {
     <>
       <HeroBanner />
       <About />
+      <Work />
       <Service />
       <Blog />
-      <Work />
-      <Testimonial />
+      {/* <Testimonial /> */}
       <Photos />
       <Contact />
       <Footer />

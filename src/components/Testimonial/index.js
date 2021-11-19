@@ -1,7 +1,7 @@
 import React from 'react';
 import Slider from 'react-slick';
 
-var settings = {
+const settings = {
   dots: true,
   speed: 500,
   slidesToShow: 1,

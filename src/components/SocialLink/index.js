@@ -6,10 +6,10 @@ const SocialLink = () => {
       <li>
         <a
           className="fa fa-facebook"
-          href="https://facebook.com/ahmedsunny2"
+          href="https://www.facebook.com/nalamin500/"
           target="_blank"
           rel="noopener noreferrer"
-        ></a>
+        />
       </li>
       <li>
         <a
@@ -17,7 +17,7 @@ const SocialLink = () => {
           href="#"
           target="_blank"
           rel="noopener noreferrer"
-        ></a>
+        />
       </li>
       <li>
         <a
@@ -25,23 +25,23 @@ const SocialLink = () => {
           href="#"
           target="_blank"
           rel="noopener noreferrer"
-        ></a>
+        />
       </li>
       <li>
         <a
           className="fa fa-linkedin"
-          href="#"
+          href="https://www.linkedin.com/in/md-alamin1/"
           target="_blank"
           rel="noopener noreferrer"
-        ></a>
+        />
       </li>
       <li>
         <a
           className="fa fa-github"
-          href="https://github.com/sunny335"
+          href="https://github.com/alamin500"
           target="_blank"
           rel="noopener noreferrer"
-        ></a>
+        />
       </li>
     </ul>
   );

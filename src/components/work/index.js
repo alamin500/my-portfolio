@@ -10,23 +10,34 @@ const Work = () => {
         <ul className="work-list">
           <li className="item ">
             <div className="inner overflow-hidden">
-              <a href="https://preview.themeforest.net/item/jbdesks-react-job-board-template-with-graphql-apollo-client/full_screen_preview/29272765?_ga=2.122072011.1944711017.1606548039-532172593.1605323522">
+              <a href="https://shampoo-plus-12.web.app/">
                 <img
                   src="https://images.ctfassets.net/4bwt4pzmqo4p/LkWkisSeBiTaYyaaH6OTr/11aa301d3cce0ba64dbed6f68a620da4/plush-design-studio-y7GlIdTUOvo-unsplash.jpg?w=1800&h=1350&q=50"
                   alt=""
                 />
-                <span className="name">JB DESK</span>
+                <span className="name">Shampoo Plus</span>
               </a>
             </div>
           </li>
           <li className="item">
             <div className="inner overflow-hidden">
-              <a href="">
+              <a href="https://mongodb-assingnment-11.firebaseapp.com/">
                 <img
                   src="https://images.ctfassets.net/4bwt4pzmqo4p/LkWkisSeBiTaYyaaH6OTr/11aa301d3cce0ba64dbed6f68a620da4/plush-design-studio-y7GlIdTUOvo-unsplash.jpg?w=1800&h=1350&q=50"
                   alt=""
                 />
-                <span className="name">Shop Up</span>
+                <span className="name">Trendy Travels</span>
+              </a>
+            </div>
+          </li>
+          <li className="item">
+            <div className="inner overflow-hidden">
+              <a href="https://remix-store-nalamin500.netlify.app/">
+                <img
+                  src="https://images.ctfassets.net/4bwt4pzmqo4p/LkWkisSeBiTaYyaaH6OTr/11aa301d3cce0ba64dbed6f68a620da4/plush-design-studio-y7GlIdTUOvo-unsplash.jpg?w=1800&h=1350&q=50"
+                  alt=""
+                />
+                <span className="name">Trendy Travels</span>
               </a>
             </div>
           </li>
