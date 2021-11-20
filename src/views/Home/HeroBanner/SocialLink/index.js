@@ -2,36 +2,36 @@ import React from 'react';
 
 const SocialLink = () => {
   return (
-    <div class="social-card">
-      <div class="card">
-        <div class="face face1">
-          <div class="content">
-            <div class="icon">
-              <i class="fa fa-facebook" aria-hidden="true"></i>
+    <div className="social-card">
+      <div className="card">
+        <div className="face face1">
+          <div className="content">
+            <div className="icon">
+              <i className="fa fa-facebook" aria-hidden="true" />
             </div>
           </div>
         </div>
-        <div class="face face2">
-          <div class="content">
+        <div className="face face2">
+          <div className="content">
             <h3>
               <a href="https://web.facebook.com/ahmedsunny2" target="_blank">
-                Ahmed Sunny
+                Md Alamin
               </a>
             </h3>
             <p>This is where I network and build my professional protfolio.</p>
           </div>
         </div>
       </div>
-      <div class="card">
-        <div class="face face1">
-          <div class="content">
-            <div class="icon">
-              <i class="fa fa-twitter-square" aria-hidden="true"></i>
+      <div className="card">
+        <div className="face face1">
+          <div className="content">
+            <div className="icon">
+              <i className="fa fa-twitter-square" aria-hidden="true" />
             </div>
           </div>
         </div>
-        <div class="face face2">
-          <div class="content">
+        <div className="face face2">
+          <div className="content">
             <h3>
               <a href="https://web.facebook.com/ahmedsunny2" target="_blank">
                 @AhmedSunny
@@ -44,16 +44,16 @@ const SocialLink = () => {
           </div>
         </div>
       </div>
-      <div class="card">
-        <div class="face face1">
-          <div class="content">
-            <div class="icon">
-              <i class="fa fa-github-square" aria-hidden="true"></i>
+      <div className="card">
+        <div className="face face1">
+          <div className="content">
+            <div className="icon">
+              <i className="fa fa-github-square" aria-hidden="true" />
             </div>
           </div>
         </div>
-        <div class="face face2">
-          <div class="content">
+        <div className="face face2">
+          <div className="content">
             <h3>
               <a href="https://github.com/sunny335" target="_blank">
                 sunny335

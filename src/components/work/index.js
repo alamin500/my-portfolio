@@ -5,14 +5,15 @@ const Work = () => {
     <div className="work section" id="Work">
       <div className="container">
         <div className="section-head">
-          <h2 className="text-center">Work</h2>
+          <h2 className="text-center">Projects</h2>
         </div>
         <ul className="work-list">
           <li className="item ">
             <div className="inner overflow-hidden">
               <a href="https://shampoo-plus-12.web.app/">
                 <img
-                  src="https://images.ctfassets.net/4bwt4pzmqo4p/LkWkisSeBiTaYyaaH6OTr/11aa301d3cce0ba64dbed6f68a620da4/plush-design-studio-y7GlIdTUOvo-unsplash.jpg?w=1800&h=1350&q=50"
+                  height="270px"
+                  src="https://i.ibb.co/VqG6C7T/Capture1.png"
                   alt=""
                 />
                 <span className="name">Shampoo Plus</span>
@@ -23,7 +24,8 @@ const Work = () => {
             <div className="inner overflow-hidden">
               <a href="https://mongodb-assingnment-11.firebaseapp.com/">
                 <img
-                  src="https://images.ctfassets.net/4bwt4pzmqo4p/LkWkisSeBiTaYyaaH6OTr/11aa301d3cce0ba64dbed6f68a620da4/plush-design-studio-y7GlIdTUOvo-unsplash.jpg?w=1800&h=1350&q=50"
+                  height="270px"
+                  src="https://i.ibb.co/ZB75Zhy/Capture3.png"
                   alt=""
                 />
                 <span className="name">Trendy Travels</span>
@@ -34,10 +36,11 @@ const Work = () => {
             <div className="inner overflow-hidden">
               <a href="https://remix-store-nalamin500.netlify.app/">
                 <img
-                  src="https://images.ctfassets.net/4bwt4pzmqo4p/LkWkisSeBiTaYyaaH6OTr/11aa301d3cce0ba64dbed6f68a620da4/plush-design-studio-y7GlIdTUOvo-unsplash.jpg?w=1800&h=1350&q=50"
+                  height="270px"
+                  src="https://i.ibb.co/mFFBMh2/Capture4.png"
                   alt=""
                 />
-                <span className="name">Trendy Travels</span>
+                <span className="name">Remix Store</span>
               </a>
             </div>
           </li>

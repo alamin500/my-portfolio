@@ -13,8 +13,9 @@ const Home = () => {
   return (
     <>
       <HeroBanner />
-      <About />
       <Work />
+      <About />
+
       <Service />
       <Blog />
       {/* <Testimonial /> */}

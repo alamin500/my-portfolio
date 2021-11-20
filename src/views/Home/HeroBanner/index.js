@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { Col, Container, Row } from 'reactstrap';
 import SocialLink from 'src/components/SocialLink';
 
@@ -12,11 +13,14 @@ const HeroBanner = () => {
       <div className="container">
         <div className="banner-details">
           <span>Hello...</span>
-          <h1>I'm Front-end Developer.</h1>
+          <h1>I'm Mern Stack Developer.</h1>
+
           <ul className="sub-data">
-            <li>Designer</li>
-            <li>Designer</li>
-            <li>Designer</li>
+            <a href="https://drive.google.com/file/d/1ihYSL0p0knerLbd0lB7CXcViBYsN0BVu/view?usp=sharing">
+              <button type="button" className="btn btn-outline-light btn-lg">
+                View Resume
+              </button>
+            </a>
           </ul>
           <SocialLink />
         </div>

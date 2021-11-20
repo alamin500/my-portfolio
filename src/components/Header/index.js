@@ -1,6 +1,7 @@
 import React from 'react';
 import { Nav, NavItem } from 'reactstrap';
 import { Link, NavLink } from 'react-router-dom';
+
 const Header = () => {
   return (
     <Nav className="bg-light justify-content-center">
@@ -14,11 +15,11 @@ const Header = () => {
           About
         </Link>
       </NavItem>
-      <NavItem className="px-4 py-4">
-        <Link to="#" className="text-dark">
+      {/* <NavItem className="px-4 py-4">
+        <Link to="blog" className="text-dark">
           Blog
         </Link>
-      </NavItem>
+      </NavItem> */}
     </Nav>
   );
 };

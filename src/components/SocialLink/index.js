@@ -11,22 +11,22 @@ const SocialLink = () => {
           rel="noopener noreferrer"
         />
       </li>
-      <li>
+      {/* <li>
         <a
           className="fa fa-twitter"
           href="#"
           target="_blank"
           rel="noopener noreferrer"
         />
-      </li>
-      <li>
+      </li> */}
+      {/* <li>
         <a
           className="fa fa-instagram"
           href="#"
           target="_blank"
           rel="noopener noreferrer"
         />
-      </li>
+      </li> */}
       <li>
         <a
           className="fa fa-linkedin"

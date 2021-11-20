@@ -39,7 +39,7 @@ const Testimonial = () => {
                 publishing software like Aldus PageMaker including versions of
                 Lorem Ipsum.
               </div>
-              <h3 className="name">Ahmed Sunny</h3>
+              <h3 className="name">Md Alamin</h3>
               <span className="sub-name">City University</span>
             </div>
           </div>
@@ -62,8 +62,8 @@ const Testimonial = () => {
                 publishing software like Aldus PageMaker including versions of
                 Lorem Ipsum.
               </div>
-              <h3 className="name">Ahmed Sunny</h3>
-              <span className="sub-name">City University</span>
+              <h3 className="name">Md Alamin</h3>
+              <span className="sub-name">Chandpur Government University</span>
             </div>
           </div>
         </Slider>
